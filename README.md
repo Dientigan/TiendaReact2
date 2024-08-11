@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # TiendaReact-2
 # TiendaReact2
 # TiendaReact2
+# TiendaReact2
